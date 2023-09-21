@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 🐣 I am a Developer
 - 🌻 Thriving to survive
 - 🍀 Cheerful & Optimistic
-- 🐛 [My Portfolio](arpanarit.netlify.app)
+- 🐛 [My Portfolio](https://arpanarit.netlify.app/)
