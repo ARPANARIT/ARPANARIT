@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 [Portfolio]: https://arpanarit.netlify.app/
 -->
-# 🐣 I am a Developer
-# 🌻 Thriving to survive
-# 🍀 Cheerful & Optimistic 
+- 🐣 I am a Developer
+- 🌻 Thriving to survive
+- 🍀 Cheerful & Optimistic 
 # 🐛 My [Portfolio]
